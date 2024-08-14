@@ -1,6 +1,6 @@
 # Welcome! :v:
 
-![Alt](https://repobeats.axiom.co/api/embed/780338befb0fbcb95dcea841a4c32ac09f7348e2.svg "Repobeats analytics image")
+
 
 ## :mag: About me
 
