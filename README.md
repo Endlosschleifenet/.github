@@ -1,5 +1,7 @@
 # Welcome! :v:
 
+![Alt](https://repobeats.axiom.co/api/embed/780338befb0fbcb95dcea841a4c32ac09f7348e2.svg "Repobeats analytics image")
+
 ## :mag: About me
 
 I go around from time to time making code or improving others! My **latest project** is a Roblox [Starving Artists Bot](https://github.com/Endlosschleifenet/roblox-starving-artists-bot) that I forked from [Luois45's](https://github.com/Luois45) [Repository](https://github.com/Luois45/roblox-starving-artists-bot)!
